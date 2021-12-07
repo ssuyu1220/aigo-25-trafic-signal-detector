@@ -1,0 +1,4 @@
+yellow light_Please wait.
+green light_Can go forward.
+red light_Don't go forward.
+other_none

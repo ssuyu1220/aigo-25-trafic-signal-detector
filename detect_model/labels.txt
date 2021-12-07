@@ -1,0 +1,4 @@
+0 yellow light
+1 green light
+2 red light
+3 other
